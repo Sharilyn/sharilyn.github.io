@@ -1,16 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[A Brief But Stunning Reign of Terror]]></title>
   <link href="http://Sharilyn.github.io/atom.xml" rel="self"/>
   <link href="http://Sharilyn.github.io/"/>
-  <updated>2013-10-22T21:40:17-04:00</updated>
+  <updated>2013-10-22T21:52:19-04:00</updated>
   <id>http://Sharilyn.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Sharilyn]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[So it begins]]></title>
+    <link href="http://Sharilyn.github.io/blog/2013/10/21/so-it-begins/"/>
+    <updated>2013-10-21T21:10:00-04:00</updated>
+    <id>http://Sharilyn.github.io/blog/2013/10/21/so-it-begins</id>
+    <content type="html"><![CDATA[<p>So far this is pretty fun. I was looking forward to class tonight and I was not disappointed.</p>
+
+<h3>Tonight we covered</h3>
+
+<ul>
+<li>git commands (basic)</li>
+<li>command line</li>
+<li>committing files</li>
+<li>setting up octopress</li>
+<li>markdown editing</li>
+<li>some blogging</li>
+</ul>
+
+]]></content>
+  </entry>
   
 </feed>
