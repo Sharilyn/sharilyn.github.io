@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[A Brief But Stunning Reign of Terror]]></title>
+  <link href="http://Sharilyn.github.io/atom.xml" rel="self"/>
+  <link href="http://Sharilyn.github.io/"/>
+  <updated>2013-10-23T18:29:42-04:00</updated>
+  <id>http://Sharilyn.github.io/</id>
+  <author>
+    <name><![CDATA[Sharilyn]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[I Finished my Homework]]></title>
+    <link href="http://Sharilyn.github.io/blog/2013/10/22/i-finished-my-homework/"/>
+    <updated>2013-10-22T21:55:00-04:00</updated>
+    <id>http://Sharilyn.github.io/blog/2013/10/22/i-finished-my-homework</id>
+    <content type="html"><![CDATA[<p>I don&rsquo;t really know who else to tell, but I FINISHED MY HOMEWORK.</p>
+
+<p>I started a new, second job this week. It&rsquo;s at a newspaper. Newspapering is something I know how to do, it&rsquo;s second nature. But it&rsquo;s also hectic. It&rsquo;s a weekly paper, and today was their close. I was closing for the first time, with the Editor In Chief sitting next to me and grilling me over the photo captions. But, fuck it, we still went to press by 7:30p.</p>
+
+<p>And I only started this job because my first job, at a startup my friends founded, is clearly floundering. It&rsquo;s obvious to everyone that the founders are running out of both money and the will to continue in any useful form. And I can&rsquo;t afford to be jobless in NYC, especially not now since I want to stay through the holidays and learn Ruby and go full stack and be the baddest ass redhead on either side of the Mississippi.</p>
+
+<p>Um and yeah, I quit drinking this month. So there&rsquo;s that.</p>
+
+<p>But I&rsquo;m not here to whine at you. I&rsquo;m here to tell you that I FINISHED MY HOMEWORK.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[So it begins]]></title>
+    <link href="http://Sharilyn.github.io/blog/2013/10/21/so-it-begins/"/>
+    <updated>2013-10-21T21:10:00-04:00</updated>
+    <id>http://Sharilyn.github.io/blog/2013/10/21/so-it-begins</id>
+    <content type="html"><![CDATA[<p>So far this is pretty fun. I was looking forward to class tonight and I was not disappointed.</p>
+
+<h3>Tonight we covered</h3>
+
+<ul>
+<li>git commands (basic)</li>
+<li>command line</li>
+<li>committing files</li>
+<li>setting up octopress</li>
+<li>markdown editing</li>
+<li>some blogging</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
