@@ -4,7 +4,7 @@
   <title><![CDATA[A Brief But Stunning Reign of Terror]]></title>
   <link href="http://Sharilyn.github.io/atom.xml" rel="self"/>
   <link href="http://Sharilyn.github.io/"/>
-  <updated>2013-10-28T18:42:00-04:00</updated>
+  <updated>2013-10-28T21:46:51-04:00</updated>
   <id>http://Sharilyn.github.io/</id>
   <author>
     <name><![CDATA[Sharilyn]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[I may have jacked up git]]></title>
+    <link href="http://Sharilyn.github.io/blog/2013/10/28/i-may-have-jacked-up-git/"/>
+    <updated>2013-10-28T20:55:00-04:00</updated>
+    <id>http://Sharilyn.github.io/blog/2013/10/28/i-may-have-jacked-up-git</id>
+    <content type="html"><![CDATA[<p>Git confuses me</p>
+
+<p>&ldquo;Your branch is ahead of &lsquo;origin/master&rsquo; by 758 commits.&rdquo;</p>
+
+<p>Ugh I&rsquo;m going to have to read the documentation after all.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Video kills]]></title>
